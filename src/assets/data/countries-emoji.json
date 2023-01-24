@@ -1697,7 +1697,7 @@
   },
   "DO": {
     "currency": ["DOP"],
-    "callingCode": ["1809", "1829", "1849"],
+    "callingCode": ["1"],
     "region": "Americas",
     "subregion": "Caribbean",
     "flag": "flag-do",
